@@ -1,6 +1,6 @@
 # Remove youtube liked videos
 
-Remove youtube liked videos from your account using the above script.
+Remove youtube liked videos from your account using script.
 
 - Login in your youtube account using Chrome
 - Open Liked videos page from left side menu
